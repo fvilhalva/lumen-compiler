@@ -1,6 +1,6 @@
 # lumen-compiler
 
-Analisador léxico para a linguagem **Lumen**, desenvolvido para a disciplina de **Compiladores** (`<instituição>`, `<semestre/ano>`).
+Analisador léxico para a linguagem **Lumen**, desenvolvido para a disciplina de **Compiladores** (UEMS, 4º ano Ciência da Computação).
 
 Esta é a **Fase 1 (Análise Léxica)** de um compilador construído incrementalmente ao longo da disciplina. O scanner lê o código-fonte, reconhece os *tokens* da linguagem e produz um fluxo de tokens (com tipo, lexema, linha e coluna) que alimentará as fases seguintes (sintática e semântica).
 
